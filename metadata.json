@@ -1,0 +1,5 @@
+{
+  "name": "MathForge",
+  "description": "An advanced, single-page web application for a wide range of mathematical calculations, from basic arithmetic to calculus, matrix operations, and graphical plotting. Features a clean, responsive interface with robust theming and dark mode support.",
+  "requestFramePermissions": []
+}

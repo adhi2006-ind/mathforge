@@ -1,0 +1,27 @@
+{
+  "name": "MathForge",
+  "short_name": "MathForge",
+  "description": "Advanced math tools, calculators, and interactive modules.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  
+  "background_color": "black-translucent",
+  "theme_color": "black-translucent",
+
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
